@@ -1,2 +1,0 @@
-# conf-ser
-magic
